@@ -1,2 +1,2 @@
 # autoencoder-practice
-Autoencoder with MNIST
+Autoencoder with MNIST in Python using Tensorflow and PyTorch.
